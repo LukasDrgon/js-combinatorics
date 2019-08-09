@@ -15,8 +15,10 @@ SYNOPSIS
 --------
 
 ### In Browser
-````
+````html
 <script src="combinatorics.js"></script>
+<-- or include it directly via CDN -->
+<script src="https://cdn.jsdelivr.net/npm/js-combinatorics@0.5/combinatorics.js"></script>
 ````
 ### node.js
 ````
